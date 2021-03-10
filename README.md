@@ -1,9 +1,9 @@
 # Interview-Assistant-System
-	Aim : An interview assistant system for interviewer to evaluate the candidate through facial videos using deep learning \
+Aim : An interview assistant system for interviewer to evaluate the candidate through facial videos using deep learning \
 	Big-Five Personality Prediction by deep learning \
 	The truthfulness of the candidates' response by deep learning \
 	Calculation of the matching points between the candidate and the company \
-	Method :  \
+Method :  \
 	Use candidate’s self-introduction video to predict big-five personality with DAN model \
 	Use candidate’s answering video to predict the truthfulness of the response using Convolutional Neural Network (VGG-Face) and LSTM \
 	User Interface using Python, pyqt \
