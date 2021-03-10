@@ -7,5 +7,5 @@ Method :  \
 	Use interviewee’s self-introduction video to predict big-five personality with Convolutional Neural Network (VGG-Face) \
 	User Interface using Python, pyqt \
 
-Here is the demo video(on youtube) 
-[![Watch the video](https://img.youtube.com/vi/0xQvRHs9Rh/maxresdefault.jpg)](https://youtu.be/0xQvRHs9Rhg)
+Here is the demo video on youtube (Please click the image to watch the video on youtube!) 
+[![](http://img.youtube.com/vi/0xQvRHs9Rhg/0.jpg)](http://www.youtube.com/watch?v=0xQvRHs9Rhg "Interview Assistant System demo")
